@@ -1,1 +1,1 @@
-# Stock_Market_Analysis
+Dataset URL: https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset
